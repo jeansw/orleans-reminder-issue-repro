@@ -1,0 +1,12 @@
+
+.idea/
+
+bin/
+
+obj/
+
+*.user
+
+.vs/
+
+**/node_modules/**
